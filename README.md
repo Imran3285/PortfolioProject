@@ -6,18 +6,18 @@ The idea is simple: hot and sunny days = more lemonade sold. I built a dataset, 
 ---
 
 # What I Did
-- Created a **sample weekly dataset** with temperature, sunshine, and daily sales.
-- Explored the data with **charts and stats**.
-- Checked the **correlation** between temperature and sales.
-- Built a **simple regression model** to predict sales from temperature.
-- Shared **business insights** like stocking more on hot sunny weekends.
+- Created a sample weekly dataset with temperature, sunshine, and daily sales.
+- Explored the data with charts and stats.
+- Checked the correlation between temperature and sales.
+- Built a simple regression model to predict sales from temperature.
+- Shared business insights like stocking more on hot sunny weekends.
 
 ---
 
 # Key Insights
 - Sales rise as the temperature goes up.  
 - Sunny days have higher sales than cloudy days.    
-- A shop could use **weather forecasts** to plan stock and staffing better.  
+- A shop could use weather forecasts to plan stock and staffing better.  
 
 ---
 
@@ -25,7 +25,7 @@ The idea is simple: hot and sunny days = more lemonade sold. I built a dataset, 
 - **Python** (Pandas, NumPy)
 - **Seaborn & Matplotlib** for charts
 - **Scikit-learn** for regression
-- **Jupyter/Colab Notebook**
+- **Jupyter Notebook**
 
 ---
 
