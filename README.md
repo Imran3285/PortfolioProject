@@ -1,6 +1,6 @@
 # Lemonade Sales & Weather Project
 
-This is a little sample data project I completed as part of my internship at **Victoria Solutions**.  
+This is a little data science project I completed as part of my internship at **Victoria Solutions**.  
 The idea is simple: hot and sunny days = more lemonade sold. I built a dataset, ran some analysis, and used Python to show the patterns.
 
 ---
